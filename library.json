@@ -1,0 +1,17 @@
+{
+    "name": "WidgetServo",
+    "version": "1.0.0",
+    "keywords": "Widget,Servo",
+    "description": "舵机应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetServo.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
